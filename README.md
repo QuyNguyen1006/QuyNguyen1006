@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @QuyNguyen1006
+- 👀 I’m interested in learn and share every thing to everyone.
+- 🌱 I’m currently learning at Ha Noi university of science and technology
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
