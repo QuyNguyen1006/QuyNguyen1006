@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @QuyNguyen1006
-- 👀 I’m interested in learn and share every thing to everyone.
+- 👋 Nice to meet you, I'm Quy Nguyen
+- 👀 I am very interested in learning the knowledge of data, big data, data analyst.
 - 🌱 I’m currently learning at Ha Noi university of science and technology
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Contact: PhoneNumber: 0354377231
+- 📫 Email: quydao1006@gmail.com
+- 📫 FaceBook: https://www.facebook.com/diep.to.77985/
+- 📫 Linkedin:https://www.linkedin.com/in/qu%C3%BD-%C4%91%C3%A0o-a44243212/
 
