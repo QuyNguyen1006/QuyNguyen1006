@@ -1,5 +1,5 @@
 - 👋 Nice to meet you, I'm Quy Nguyen
-- 👀 I am very interested in learning the knowledge of data, big data, data analysis.
+- 👀 I am very interested in learning the knowledge of data, big data, data analyst.
 - 🌱 I’m currently learning at Ha Noi university of science and technology
 - 📫 Contact: PhoneNumber: 0354377231
 - 📫 Email: quydao1006@gmail.com
